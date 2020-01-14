@@ -28,7 +28,7 @@ File me [[https://github.com/dennyzhang/cheatsheet.dennyzhang.com/issues][Issues
 | Check version                          | =vagrant version=                                        |
 | Start vm from vagrantfile              | =vagrant up=. [[https://github.com/dennyzhang/cheatsheet.dennyzhang.com/blob/master/cheatsheet-vagrant-A4/vagrantfile][Sample vagrantfile]]                         |
 | Start vm with customization            | =vagrant up --debug=, =vagrant up --provider virtualbox= |
-| Destroy vagrant vm                     | =vagrant destory=                                        |
+| Destroy vagrant vm                     | =vagrant destroy=                                        |
 | SSH to vagrant vm                      | =vagrant ssh=                                            |
 | lists all boxes installed into Vagrant | =vagrant box list=                                       |
 | Vagrant data folder                    | =~/.vagrant.d=                                           |
